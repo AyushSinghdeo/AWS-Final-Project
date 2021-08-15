@@ -4,16 +4,22 @@ Setup a system which do following things: If a file uploads to s3 then file name
 
 #FIRST STEP 
 Create a lambda function
+
 ![1](https://user-images.githubusercontent.com/73579847/129484390-3e7603fa-7db5-416c-a1ce-be22faa4c441.jpg)
+
 #SECOND STEP 2
 Create a S3 Bucket
+
 ![2](https://user-images.githubusercontent.com/73579847/129484391-416fb8d4-be26-402e-ab5f-27eebaed55b9.jpg)
 
 #THIRD STEP 3
 Hook up the trigger
+
 ![3](https://user-images.githubusercontent.com/73579847/129484392-2182b00c-52ea-42a7-9009-8598c0dea8f4.jpg)
+
 #FOURTH STEP 4
 Upload the code to S3 Bucket that we created for lambda function
+
 ![4](https://user-images.githubusercontent.com/73579847/129484378-7ef8e14d-4696-47eb-9799-690e7cb4ef7c.jpg)
 
 
